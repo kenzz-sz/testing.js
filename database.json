@@ -10,7 +10,7 @@
     {
       "name": "Kenzz",
       "pin": "123456",
-      "balance": 200000,
+      "balance": 205000,
       "role": "owner",
       "history": [
         {
@@ -22,6 +22,11 @@
           "type": "IN",
           "amount": 15000,
           "note": "Item terjual: WIFI  5menit"
+        },
+        {
+          "type": "IN",
+          "amount": 5000,
+          "note": "Item terjual: WIFI sampai 19.30"
         }
       ]
     },
@@ -35,7 +40,7 @@
     {
       "name": "ray",
       "pin": "123456",
-      "balance": 45000,
+      "balance": 40000,
       "role": "user",
       "history": [
         {
@@ -47,6 +52,11 @@
           "type": "OUT",
           "amount": 15000,
           "note": "Beli item: WIFI  5menit"
+        },
+        {
+          "type": "OUT",
+          "amount": 5000,
+          "note": "Beli item: WIFI sampai 19.30"
         }
       ]
     }
@@ -208,14 +218,5 @@
       "time": 1774528028359
     }
   ],
-  "products": [
-    {
-      "id": 1774527887232,
-      "name": "WIFI sampai 19.30",
-      "price": 5000,
-      "category": "Wifi",
-      "seller": "Kenzz",
-      "secret": "Nama wifi: Kenzo"
-    }
-  ]
+  "products": []
 }
