@@ -74,6 +74,12 @@
       "receiver": "jut",
       "msg": "halo",
       "time": 1774520922009
+    },
+    {
+      "sender": "jut",
+      "receiver": "Kenzz",
+      "msg": "hi",
+      "time": 1774520940928
     }
   ],
   "products": []
