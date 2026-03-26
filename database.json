@@ -10,7 +10,7 @@
     {
       "name": "Kenzz",
       "pin": "123456",
-      "balance": 205000,
+      "balance": 200000,
       "role": "owner",
       "history": [
         {
@@ -22,11 +22,6 @@
           "type": "IN",
           "amount": 15000,
           "note": "Item terjual: WIFI  5menit"
-        },
-        {
-          "type": "IN",
-          "amount": 5000,
-          "note": "Item terjual: WIFI sampai 19.30"
         }
       ]
     },
@@ -40,7 +35,7 @@
     {
       "name": "ray",
       "pin": "123456",
-      "balance": 40000,
+      "balance": 45000,
       "role": "user",
       "history": [
         {
@@ -52,11 +47,6 @@
           "type": "OUT",
           "amount": 15000,
           "note": "Beli item: WIFI  5menit"
-        },
-        {
-          "type": "OUT",
-          "amount": 5000,
-          "note": "Beli item: WIFI sampai 19.30"
         }
       ]
     }
@@ -210,12 +200,6 @@
       "receiver": "ray",
       "msg": "✅️",
       "time": 1774527982679
-    },
-    {
-      "sender": "ray",
-      "receiver": "Kenzz",
-      "msg": "🖕🏼🖕🏼🖕🏼🖕🏼🖕🏼🖕🏼🖕🏼🖕🏼🖕🏼🖕🏼🖕🏼",
-      "time": 1774528028359
     }
   ],
   "products": []
