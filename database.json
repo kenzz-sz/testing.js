@@ -125,5 +125,14 @@
       "time": 1774521084530
     }
   ],
-  "products": []
+  "products": [
+    {
+      "id": 1774521587656,
+      "name": "Wifi Kenzo",
+      "price": 5000,
+      "category": "Pulsa",
+      "seller": "Kenzz",
+      "secret": "Nyalain wifi kenzo\nkenzovalue"
+    }
+  ]
 }
