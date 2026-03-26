@@ -6,11 +6,19 @@
       "balance": 50000,
       "history": [],
       "role": "user"
+    },
+    {
+      "name": "Kenzz",
+      "pin": "123456",
+      "balance": 0,
+      "role": "owner",
+      "history": []
     }
   ],
   "categories": [
     "Pulsa",
     "Game"
   ],
-  "products": []
+  "products": [],
+  "chats": []
 }
