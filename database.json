@@ -10,9 +10,15 @@
     {
       "name": "Kenzz",
       "pin": "123456",
-      "balance": 500000000000,
+      "balance": 500000005000,
       "role": "owner",
-      "history": []
+      "history": [
+        {
+          "type": "IN",
+          "amount": 5000,
+          "note": "Item terjual: Wifi Kenzo"
+        }
+      ]
     },
     {
       "name": "jut",
@@ -24,9 +30,15 @@
     {
       "name": "ray",
       "pin": "123456",
-      "balance": 11000,
+      "balance": 6000,
       "role": "user",
-      "history": []
+      "history": [
+        {
+          "type": "OUT",
+          "amount": 5000,
+          "note": "Beli item: Wifi Kenzo"
+        }
+      ]
     }
   ],
   "categories": [
@@ -125,14 +137,5 @@
       "time": 1774521084530
     }
   ],
-  "products": [
-    {
-      "id": 1774521587656,
-      "name": "Wifi Kenzo",
-      "price": 5000,
-      "category": "Pulsa",
-      "seller": "Kenzz",
-      "secret": "Nyalain wifi kenzo\nkenzovalue"
-    }
-  ]
+  "products": []
 }
