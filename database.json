@@ -20,6 +20,13 @@
       "balance": 1000000,
       "role": "user",
       "history": []
+    },
+    {
+      "name": "ray",
+      "pin": "123456",
+      "balance": 1000000,
+      "role": "user",
+      "history": []
     }
   ],
   "categories": [
