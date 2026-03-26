@@ -202,5 +202,14 @@
       "time": 1774527982679
     }
   ],
-  "products": []
+  "products": [
+    {
+      "id": 1774528320427,
+      "name": "WIFI - 20.00",
+      "price": 40000,
+      "category": "Pulsa",
+      "seller": "Kenzz",
+      "secret": "WIFI: Kenzo"
+    }
+  ]
 }
