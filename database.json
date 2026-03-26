@@ -190,5 +190,14 @@
       "time": 1774522297187
     }
   ],
-  "products": []
+  "products": [
+    {
+      "id": 1774527887232,
+      "name": "WIFI sampai 19.30",
+      "price": 5000,
+      "category": "Wifi",
+      "seller": "Kenzz",
+      "secret": "Nama wifi: Kenzo"
+    }
+  ]
 }
