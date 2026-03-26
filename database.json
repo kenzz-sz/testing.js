@@ -26,6 +26,13 @@
     "Pulsa",
     "Game"
   ],
-  "chats": [],
+  "chats": [
+    {
+      "sender": "jut",
+      "receiver": "Kenzz",
+      "msg": "hello",
+      "time": 1774520458167
+    }
+  ],
   "products": []
 }
