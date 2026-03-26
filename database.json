@@ -10,7 +10,7 @@
     {
       "name": "Kenzz",
       "pin": "123456",
-      "balance": 200000,
+      "balance": 240000,
       "role": "owner",
       "history": [
         {
@@ -22,6 +22,11 @@
           "type": "IN",
           "amount": 15000,
           "note": "Item terjual: WIFI  5menit"
+        },
+        {
+          "type": "IN",
+          "amount": 40000,
+          "note": "Item terjual: WIFI - 20.00"
         }
       ]
     },
@@ -35,7 +40,7 @@
     {
       "name": "ray",
       "pin": "123456",
-      "balance": 45000,
+      "balance": 5000,
       "role": "user",
       "history": [
         {
@@ -47,6 +52,11 @@
           "type": "OUT",
           "amount": 15000,
           "note": "Beli item: WIFI  5menit"
+        },
+        {
+          "type": "OUT",
+          "amount": 40000,
+          "note": "Beli item: WIFI - 20.00"
         }
       ]
     }
@@ -202,14 +212,5 @@
       "time": 1774527982679
     }
   ],
-  "products": [
-    {
-      "id": 1774528320427,
-      "name": "WIFI - 20.00",
-      "price": 40000,
-      "category": "Pulsa",
-      "seller": "Kenzz",
-      "secret": "WIFI: Kenzo"
-    }
-  ]
+  "products": []
 }
