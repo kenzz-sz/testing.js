@@ -1,5 +1,16 @@
 {
-  "users": [],
-  "categories": ["Pulsa", "Game"],
+  "users": [
+    {
+      "name": null,
+      "pin": null,
+      "balance": 50000,
+      "history": [],
+      "role": "user"
+    }
+  ],
+  "categories": [
+    "Pulsa",
+    "Game"
+  ],
   "products": []
 }
