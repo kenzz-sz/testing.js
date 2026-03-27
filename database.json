@@ -78,7 +78,8 @@
           "amount": 1003010,
           "note": "Item terjual: Hp ray"
         }
-      ]
+      ],
+      "bannedUntil": 1774606771265
     }
   ],
   "categories": [
