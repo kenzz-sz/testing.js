@@ -40,7 +40,7 @@
     {
       "name": "ray",
       "pin": "123456",
-      "balance": 5000,
+      "balance": 15000,
       "role": "user",
       "history": [
         {
