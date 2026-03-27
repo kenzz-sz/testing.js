@@ -226,6 +226,12 @@
       "receiver": "ray",
       "msg": "RAY JELEK",
       "time": 1774528422959
+    },
+    {
+      "sender": "Kenzz",
+      "receiver": "ray",
+      "msg": "halo",
+      "time": 1774603088593
     }
   ],
   "products": [
