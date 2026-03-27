@@ -55,7 +55,7 @@
     {
       "name": "ray",
       "pin": "123456",
-      "balance": 1.0065656565656656e+21,
+      "balance": 0,
       "role": "user",
       "history": [
         {
