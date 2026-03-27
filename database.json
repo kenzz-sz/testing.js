@@ -10,7 +10,7 @@
     {
       "name": "Kenzz",
       "pin": "123456",
-      "balance": 540000,
+      "balance": 240000,
       "role": "owner",
       "history": [
         {
@@ -27,6 +27,11 @@
           "type": "IN",
           "amount": 40000,
           "note": "Item terjual: WIFI - 20.00"
+        },
+        {
+          "type": "OUT",
+          "amount": 300000,
+          "note": "Beli item: FF jawa bandung"
         }
       ]
     },
@@ -40,7 +45,7 @@
     {
       "name": "ray",
       "pin": "123456",
-      "balance": 105000,
+      "balance": 405000,
       "role": "user",
       "history": [
         {
@@ -57,6 +62,11 @@
           "type": "OUT",
           "amount": 40000,
           "note": "Beli item: WIFI - 20.00"
+        },
+        {
+          "type": "IN",
+          "amount": 300000,
+          "note": "Item terjual: FF jawa bandung"
         }
       ]
     }
@@ -226,14 +236,6 @@
       "category": "Game",
       "seller": "Kenzz",
       "secret": "TAPI BOONG"
-    },
-    {
-      "id": 1774602824379,
-      "name": "FF jawa bandung",
-      "price": 300000,
-      "category": "Pulsa",
-      "seller": "ray",
-      "secret": "terimakasih sudah beli"
     }
   ]
 }
