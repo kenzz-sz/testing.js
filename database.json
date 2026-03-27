@@ -10,7 +10,7 @@
     {
       "name": "Kenzz",
       "pin": "123456",
-      "balance": 1396990,
+      "balance": 1546990,
       "role": "owner",
       "history": [
         {
@@ -37,6 +37,11 @@
           "type": "OUT",
           "amount": 1003010,
           "note": "Beli item: Hp ray"
+        },
+        {
+          "type": "IN",
+          "amount": 150000,
+          "note": "Item terjual: AKUN FF RAMA"
         }
       ]
     },
@@ -50,7 +55,7 @@
     {
       "name": "ray",
       "pin": "123456",
-      "balance": 1408010,
+      "balance": 1258010,
       "role": "user",
       "history": [
         {
@@ -77,6 +82,11 @@
           "type": "IN",
           "amount": 1003010,
           "note": "Item terjual: Hp ray"
+        },
+        {
+          "type": "OUT",
+          "amount": 150000,
+          "note": "Beli item: AKUN FF RAMA"
         }
       ],
       "bannedUntil": 1774606771265
@@ -245,14 +255,5 @@
       "time": 1774603088593
     }
   ],
-  "products": [
-    {
-      "id": 1774602561252,
-      "name": "AKUN FF RAMA",
-      "price": 150000,
-      "category": "Game",
-      "seller": "Kenzz",
-      "secret": "TAPI BOONG"
-    }
-  ]
+  "products": []
 }
